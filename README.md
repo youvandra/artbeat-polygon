@@ -34,3 +34,7 @@ npm run dev
 ```
 
 ## Go to localhost:3000 in your browser
+
+## Sponsor Challenges
+
+Uploading NFT to Gateway Pinata IPFS in ./pinata.ts
