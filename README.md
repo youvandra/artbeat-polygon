@@ -1,13 +1,13 @@
 ## Clone this project
 
 ```
-git clone https://github.com/youvandra/ArtBeat.git
+git clone https://github.com/youvandra/artbeat-polygon.git
 ```
 
 Open project folder
 
 ```
-cd Artbeat/
+cd artbeat-polygon/
 ```
 
 ## Set your network on metamask with Mumbai testnet
