@@ -14,7 +14,7 @@ export const CHAIN_PARAMS = {
   chainName: "Mumbai",
   chainId: CHAIN_ID,
   nativeCurrency: { name: "MATIC", decimals: 18, symbol: "MATIC" },
-  rpcUrls: ["https://matic-mumbai.chainstacklabs.com"],
+  rpcUrls: ["https://rpc-mumbai.maticvigil.com"],
   blockExplorerUrls: ["https://mumbai.polygonscan.com"],
   iconUrls: ["https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png"],
 };
